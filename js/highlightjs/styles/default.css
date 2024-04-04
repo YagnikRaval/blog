@@ -4,6 +4,10 @@ Original highlight.js style (c) Ivan Sagalaev <maniac@softwaremaniacs.org>
 
 */
 
+body {
+    font-family: 'Hind Vadodara';font-size: 25px;
+}
+
 .hljs {
   display: block;
   overflow-x: auto;

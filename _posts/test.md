@@ -1,3 +1,9 @@
+---
+layout: default
+title: test
+---
+
+
 <h1> Hello World</h1>
 <p>Hello
 This is Test Post by Yagnik </p>

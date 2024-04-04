@@ -4,15 +4,15 @@ description: "Some short description of your blog can go here." # This will show
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "yagnikrvl@gmail.com"
-twitter_username: "@YagnikRawal"
-github_username: "YagnikRaval"
-linkedin_username: "linkedinuser"
-#facebook_username: iamYagnik
+email:"yagnikrvl@gmail.com"
+twitter_username:"@YagnikRawal"
+github_username:"YagnikRaval"
+linkedin_username: ""
+#facebook_username:"iamYagnik"
 #flickr_username: username
-#instagram_username: username
+#instagram_username:"Yagnik02"
 #pinterest_username: username
-#youtube_username: username
+#youtube_username:"@YagnikRawal"
 #googleplus_username: +username
 
 #########################################################################################

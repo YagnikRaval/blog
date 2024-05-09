@@ -1,2 +1,2 @@
 Hello
-This is Yagni's Personal Blog
+This is Yagnik's Personal Blog
